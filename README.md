@@ -1,4 +1,6 @@
 # Домашнее задание к занятию "9. Анимации и CSS"
+[![Build status](https://ci.appveyor.com/api/projects/status/i9pftokha0r1a5qo?svg=true)](https://ci.appveyor.com/project/donecvolsk/animations-css)
+https://donecvolsk.github.io/Animations_CSS/
 
 Правила сдачи задания:
 
